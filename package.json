@@ -9,15 +9,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lingrode/nodejs-hw-mongodb.git"
+    "url": "git+ https://github.com/olegfil16/nodejs-hw-mongodb.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lingrode/nodejs-hw-mongodb/issues"
   },
-  "homepage": "https://github.com/Lingrode/nodejs-hw-mongodb#readme",
+  "homepage": "https://github.com//nodejs-hw-mongodb#readme",
   "description": "",
   "devDependencies": {
     "@eslint/js": "^9.21.0",
